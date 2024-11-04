@@ -1,5 +1,6 @@
-## hey there! 
-i'm a beginner programmer (learning python) and like to draw sometimes
+# hey there! 
+i'm a beginner programmer (learning python)
+
 
 
 <!--
